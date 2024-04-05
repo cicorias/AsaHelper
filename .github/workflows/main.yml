@@ -1,3 +1,4 @@
+name: run hello world from actions repo
 on:
   pull_request:
     branches:
